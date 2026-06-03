@@ -1,5 +1,4 @@
 # 🚀 InfraPilot
-
 **Production Grade Cloud Deployment Platform**
 
 InfraPilot is a full-stack cloud deployment platform that enables users to deploy, monitor, and manage applications through an intuitive web interface.
