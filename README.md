@@ -1,5 +1,3 @@
-
-
 # 🚀 InfraPilot
 **Production Grade Cloud Deployment Platform**
 
